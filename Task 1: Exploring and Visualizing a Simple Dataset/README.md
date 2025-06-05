@@ -15,7 +15,7 @@ The goal of this task is to:
 
 ##  Dataset
 
-- **Name**: Iris Dataset
+- **Name**: Iris
 - **Source**: Available via Seaborn (`sns.load_dataset("iris")`)
 - **Features**:
   - sepal_length
