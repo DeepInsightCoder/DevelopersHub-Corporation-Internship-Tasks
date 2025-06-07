@@ -31,14 +31,14 @@ To gain hands-on experience with:
 ## 📌 Task Summaries
 
 ### ✅ Task 1: Exploring & Visualizing a Simple Dataset  
-**Notebook**: `iris_dark_theme_wordcloud.ipynb`  
+**Notebook**: `Task 1.ipynb`  
 Explore the famous **Iris dataset** with creative dark-themed plots and a WordCloud of fictional species names.  
 Used: `pandas`, `matplotlib`, `seaborn`, `wordcloud`
 
 
 
 ### ✅ Task 2: Credit Risk Prediction — Loan Approval Assistant AI  
-**Notebook**: `loan_risk_radar.ipynb`  
+**Notebook**: `Task 2.ipynb`  
 Predicted loan approval based on real financial datasets.  
 Modeled using **Logistic Regression** with ~79% accuracy.  
 Used: `sklearn`, `seaborn`, `LabelEncoder`, EDA
@@ -46,14 +46,14 @@ Used: `sklearn`, `seaborn`, `LabelEncoder`, EDA
 
 
 ### ✅ Task 3: Customer Churn Prediction — Bank Loyalty Analyzer  
-**Notebook**: `bank_loyalty_analyzer.ipynb`  
+**Notebook**: `Task 3.ipynb`  
 Classified customers likely to churn using **Random Forest**, with a focus on loyalty factors like **Age**, **Balance**, and **IsActiveMember**.  
 Achieved ~87% accuracy.
 
 
 
 ### ✅ Task 4: Insurance Claim Prediction — Health Cost Forecaster AI  
-**Notebook**: `health_cost_forecaster.ipynb`  
+**Notebook**: `Task 4.ipynb`  
 Used **Linear Regression** to estimate medical charges based on **age**, **bmi**, and **smoking**.  
 Visualized results with regression plots and heatmaps.  
 R² ~78%
@@ -61,7 +61,7 @@ R² ~78%
 
 
 ### ✅ Task 5: Personal Loan Acceptance — Smart Campaign Analyzer  
-**Notebook**: `smart_campaign_analyzer.ipynb`  
+**Notebook**: `Task 5.ipynb`  
 Predicted which customers would say "yes" to a personal loan offer.  
 Used **Decision Tree Classifier** with ~81% accuracy and business-focused EDA.  
 Best features: `duration`, `contact`, `month`, `age`
