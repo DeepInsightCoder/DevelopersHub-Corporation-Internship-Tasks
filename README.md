@@ -1,4 +1,4 @@
-# 🌟 Data Science & Analytics Internship Projects — Ayesha Tariq (DHC-1874)
+# 🌟 Data Science & Analytics Internship Projects — Ayesha Tariq(DHC-1874)
 
 Welcome to my official internship project repository for **DevelopersHub Corporation**.  
 This repository contains 5 professionally completed tasks as part of my **Data Science & Analytics Internship**, each exploring real-world business problems using data science techniques.
