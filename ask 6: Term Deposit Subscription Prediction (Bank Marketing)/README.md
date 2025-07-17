@@ -1,6 +1,6 @@
-# Term Deposit Subscription Prediction (Bank Marketing)**
+# Term Deposit Subscription Prediction (Bank Marketing)
 
-### bjective
+### Objective
 
 Build a classification model to predict whether a customer will subscribe to a term deposit based on marketing campaign data.
 
