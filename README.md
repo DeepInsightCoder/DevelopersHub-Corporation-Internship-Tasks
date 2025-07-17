@@ -88,7 +88,7 @@ Handled imbalance, feature encoding, and visualizations.
 Clustered customers into 5 meaningful groups based on Age, Income, and Spending Score.
 Visualized using **Elbow Method**, 2D and 3D cluster plots.
 
----
+
 
 ### ✅ Task 8: Energy Consumption Forecasting
 
@@ -120,6 +120,13 @@ Built a professional **Streamlit dashboard** for the Global Superstore dataset:
 * 📈 Visuals: Bar, Line, Pie charts
 * 🚀 Fully interactive and responsive layout
 
+
+## 📦 Installation
+
+To run this project locally, install the dependencies:
+
+```bash
+pip install -r requirements.txt
 
 ## 🧰 Tools & Libraries Used
 
